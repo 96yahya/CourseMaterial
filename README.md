@@ -89,13 +89,6 @@ else
     Console.WriteLine("The number is not positive.");
 }
 
-
-
-
-
-
-
-
 -	Switch statement:
 
 switch (variable)
